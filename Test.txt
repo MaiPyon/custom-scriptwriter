@@ -1,0 +1,31 @@
+title: Hello World!
+author: Holy & Mai
+/Chapter 1
+
+.MY PC - LOCATION - NIGHT
+This a test and example text for a script.
+
+@Person
+(waves at you giddily hehehehehe)
+'Hello!
+
+Person waves at you and happy to see you.
+You turn around to her and also wave at her.
+
+@You
+(smiles)
+'Hello, person!
+
+==
+/Chapter 2
+
+.EARTH - AMERICA - MORNING
+
+Hello, world.
+
+@Person
+'Hi. 
+
+@You
+(smiles)
+'Hello, person!
